@@ -13,7 +13,6 @@ noinst_LTLIBRARIES += %D%/libocdflashnand.la
 
 NAND_DRIVERS = \
 	%D%/nonce.c \
-	%D%/davinci.c \
 	%D%/lpc3180.c \
 	%D%/lpc32xx.c \
 	%D%/mxc.c \
